@@ -1,9 +1,3 @@
-management:
-  endpoints:
-    web:
-      exposure:
-        include: routes,refresh
-
 zuul:
   routes:
     api-a:
