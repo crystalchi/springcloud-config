@@ -1,2 +1,2 @@
-server:
-  port: 8780
+test:
+  desc: hello springcloud bus..........!!!
