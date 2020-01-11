@@ -3,6 +3,6 @@ zuul:
     api-a:
       path: /api-a/**
       serviceId: service-ribbon
-    api-q:
-      path: /api-q/**
+    api-x:
+      path: /api-x/**
       serviceId: service-feign
